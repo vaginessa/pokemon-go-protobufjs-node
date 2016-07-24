@@ -1,0 +1,18 @@
+{
+  "name": "pokemongo-protobufjs",
+  "version": "1.0.0",
+  "description": "Pokemon Go protobuf.js protocol wrapper for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rastapasta/pokemon-go-protobufjs-node.git"
+  },
+  "dependencies": {
+    "protobufjs": "git+https://github.com/rastapasta/protobuf.js.git"
+  }
+}
